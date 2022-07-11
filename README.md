@@ -6,8 +6,8 @@
 <ul>
 <li>🔭 I’m currently working at <a href="https://www.grab.com/sg/">Grab Digibank</a>.</li>
 <li>🧐 I am passionate about <strong>distributed systems</strong> and programming languages in general - the recent addiction being Rust.</li>
-<li>👨‍💻 I spend an embarrassingly large amount of time solving <a href="https://leetcode.com/arunma/">Leetcode</a> problems for fun.</li>
-<li>💬 Ping me about <strong>Big Data, Engineering at Scale, Scala, Rust and just about anything tech</strong>.</li>
+<li>💬 Ping me about <strong>Big Data, Engineering at Scale, Scala, Rust and just about anything related to data and tech</strong>.</li>
+<li>👨‍💻 I spend an embarrassingly large amount of time solving <a href="https://leetcode.com/arunma/">leetcode</a> problems for fun.</li>
 <li>📝 I wanted to write regularly on <a href="https://www.arunma.com">my blog</a>.</li>
 <li>🎉 Fun Fact: I wrote a book on using <a href="https://www.amazon.com/s?i=stripbooks&amp;rh=p_27%3AArun+Manivannan">Scala for data analytics</a> and was a lecturer at <a href="https://www.iss.nus.edu.sg/">NUS</a> for a couple of years。</li>
 </ul>
