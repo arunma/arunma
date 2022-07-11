@@ -1,16 +1,15 @@
 <h2>Hey! Nice to see you. I'm <a href="https://www.arunma.com">Arun Manivannan</a></h2>
 <p>I'm a software engineer who is passionate about data, distributed systems and programming in general. Lives in Singapore.</p>
 <p><a href="https://www.arunma.com"><img src="https://img.shields.io/badge/-arunma.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Chrome&amp;link=https://www.arunma.com" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/arunma/"><img src="https://img.shields.io/badge/-@arunma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/arunma/" alt="LinkedIn Badge"></a> <a href="https://img.shields.io/twitter/follow/arunma"><img src="https://img.shields.io/badge/-@arunma-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Twitter&amp;link=https://img.shields.io/twitter/follow/arunma" alt="Twitter Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmKk/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working at [Grab Digibank] (<a href="https://www.grab.com/sg/">https://www.grab.com/sg/</a>).</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>🔭 I’m currently working at <a href="https://www.grab.com/sg/">Grab Digibank</a>.</li>
+<li>🧐 I am passionate about <strong>distributed systems</strong> and programming languages in general - the recent addiction being Rust.</li>
 <li>👨‍💻 I spend an embarrassingly large amount of time solving <a href="https://leetcode.com/arunma/">Leetcode</a> problems for fun.</li>
-<li>📝 I wanted to write regularly on <a href="https://www.arunma.com">my blog</a>.</li>
 <li>💬 Ping me about <strong>Big Data, Engineering at Scale, Scala, Rust and just about anything tech</strong>.</li>
-<li>🎉 Fun Fact: I wrote a book on using [Scala for data analytics] (<a href="https://www.amazon.com/s?i=stripbooks&amp;rh=p_27%3AArun+Manivannan">https://www.amazon.com/s?i=stripbooks&amp;rh=p_27%3AArun+Manivannan</a>) and was a lecturer at [NUS] (<a href="https://www.iss.nus.edu.sg/">https://www.iss.nus.edu.sg/</a>) for a couple of years。</li>
+<li>📝 I wanted to write regularly on <a href="https://www.arunma.com">my blog</a>.</li>
+<li>🎉 Fun Fact: I wrote a book on using <a href="https://www.amazon.com/s?i=stripbooks&amp;rh=p_27%3AArun+Manivannan">Scala for data analytics</a> and was a lecturer at <a href="https://www.iss.nus.edu.sg/">NUS</a> for a couple of years。</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
