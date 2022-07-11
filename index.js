@@ -49,7 +49,6 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmKk/giphy.gif" />`;
 const factsTitle = generateTitle(2, `Me, Me, Me`);
 const factsConfigs = [
-    `🔭 I’m currently working at [Grab Digibank](https://www.grab.com/sg/).`,
     `🧐 I am passionate about **distributed systems** and programming languages in general - the recent addiction being Rust.`,
     `💬 Ping me about **Big Data, Engineering at Scale, Scala, Rust and just about anything related to data and tech**.`,
     `👨‍💻 I spend an embarrassingly large amount of time solving [leetcode](https://leetcode.com/arunma/) problems for fun.`,
