@@ -41,7 +41,7 @@ const badgeConfigs = [{
         labelBgColor: '0A0A0A',
         logoBgColor: '0A0A0A',
         logo: 'Twitter',
-        link: 'https://img.shields.io/twitter/follow/arunma',
+        link: 'https://twitter.com/arunma',
     },
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
