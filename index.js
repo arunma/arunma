@@ -14,7 +14,7 @@ md.use(mdEmoji);
 const BLOG_HOST = `https://www.arunma.com`;
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey! Nice to see you. I'm ${generateLink('Arun Manivannan', 'https://www.arunma.com')}`);
+const introTitle = generateTitle(2, `Hey! Nice to see you. I'm ${generateLink('Arun Manivannan', 'https://www.linkedin.com/in/arunma/')}`);
 const introDescription = `I'm a software engineer who is passionate about data, distributed systems and programming in general. Lives in Singapore.`;
 
 const notice = ``
