@@ -15,7 +15,7 @@ const BLOG_HOST = `https://www.arunma.com`;
 
 /* README Sections */
 const introTitle = generateTitle(2, `Hey! Nice to see you. I'm ${generateLink('Arun Manivannan', 'https://www.linkedin.com/in/arunma/')}`);
-const introDescription = `I'm a software engineer passionate about data, distributed systems and programming in general. Lives in Singapore.`;
+const introDescription = `I'm a software engineer from Singapore.`;
 
 const notice = ``
 
@@ -50,7 +50,7 @@ const gif = `<img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmK
 const factsTitle = generateTitle(2, `Me, Me, Me`);
 const factsConfigs = [
     `🧐 I am passionate about **distributed systems** and programming languages in general - the recent addiction being Rust.`,
-    `💬 Ping me about **Big Data, Engineering at Scale, Scala, Rust and just about anything related to data and tech**.`,
+    `💬 Ping me about **Big Data, Engineering at Scale, Scala, Rust** and just about anything related to data and tech.`,
     `👨‍💻 I spend an embarrassingly large amount of time solving [leetcode](https://leetcode.com/arunma/) problems for fun.`,
     `📝 I wanted to write regularly on [my blog](${BLOG_HOST}).`,
 ];
