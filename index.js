@@ -54,7 +54,6 @@ const factsConfigs = [
     `💬 Ping me about **Big Data, Engineering at Scale, Scala, Rust and just about anything related to data and tech**.`,
     `👨‍💻 I spend an embarrassingly large amount of time solving [leetcode](https://leetcode.com/arunma/) problems for fun.`,
     `📝 I wanted to write regularly on [my blog](${BLOG_HOST}).`,
-    `🎉 Fun Fact: I wrote a book on using [Scala for data analytics](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AArun+Manivannan) and was a lecturer at [NUS](https://www.iss.nus.edu.sg/) for a couple of years。`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
