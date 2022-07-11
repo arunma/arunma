@@ -15,7 +15,7 @@ const BLOG_HOST = `https://www.arunma.com`;
 
 /* README Sections */
 const introTitle = generateTitle(2, `Hey! Nice to see you. I'm ${generateLink('Arun Manivannan', 'https://www.linkedin.com/in/arunma/')}`);
-const introDescription = `I'm a software engineer who is passionate about data, distributed systems and programming in general. Lives in Singapore.`;
+const introDescription = `I'm a software engineer passionate about data, distributed systems and programming in general. Lives in Singapore.`;
 
 const notice = ``
 
@@ -47,7 +47,7 @@ const badgeConfigs = [{
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
 const gif = `<img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmKk/giphy.gif" />`;
-const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
+const factsTitle = generateTitle(2, `Me, Me, Me`);
 const factsConfigs = [
     `🔭 I’m currently working at [Grab Digibank](https://www.grab.com/sg/).`,
     `🧐 I am passionate about **distributed systems** and programming languages in general - the recent addiction being Rust.`,
@@ -58,7 +58,7 @@ const factsConfigs = [
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
-const toolsTitle = generateTitle(2, `:rocket: Some Tools I Use`)
+const toolsTitle = generateTitle(2, ``)
 const toolsIconSize = 25;
 const toolsConfig = [{
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg',
@@ -102,6 +102,7 @@ const toolsConfig = [{
     },
 ];
 const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generateIcon(toolConfig, toolsIconSize), '');
+const toolsEndTitle = generateTitle(2, ``)
 
 const stats = `<img src="https://github-readme-stats.vercel.app/api?username=arunma&show_icons=true&count_private=true" alt="arunma" />`;
 
@@ -120,6 +121,7 @@ ${toolsTitle}\n
 <p align="left">\n
     ${tools}\n
 </p>\n
+${toolsEndTitle}\n
 ${stats}\n
 ${visitors}
 `;
