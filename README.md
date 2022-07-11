@@ -4,7 +4,6 @@
 <img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmKk/giphy.gif" />
 <h2>Me, Me, Me</h2>
 <ul>
-<li>🔭 I’m currently working at <a href="https://www.grab.com/sg/">Grab Digibank</a>.</li>
 <li>🧐 I am passionate about <strong>distributed systems</strong> and programming languages in general - the recent addiction being Rust.</li>
 <li>💬 Ping me about <strong>Big Data, Engineering at Scale, Scala, Rust and just about anything related to data and tech</strong>.</li>
 <li>👨‍💻 I spend an embarrassingly large amount of time solving <a href="https://leetcode.com/arunma/">leetcode</a> problems for fun.</li>
