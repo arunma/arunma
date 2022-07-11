@@ -17,7 +17,7 @@ const BLOG_HOST = `https://www.arunma.com`;
 const introTitle = generateTitle(2, `Hey! Nice to see you. I'm ${generateLink('Arun Manivannan', 'https://www.arunma.com')}`);
 const introDescription = `I'm a software engineer who is passionate about data, distributed systems and programming in general. Lives in Singapore.`;
 
-const notice = `🍌 Don't forget to get some Potassium 🍌`
+const notice = ``
 
 const badgeConfigs = [{
         name: 'Website',
@@ -49,12 +49,12 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmKk/giphy.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
-    `🔭 I’m currently working at [Grab Digibank] (https://www.grab.com/sg/).`,
-    `🧐 Learning about **serverless architectures**, **distributed systems**, and a bit of **ML**.`,
+    `🔭 I’m currently working at [Grab Digibank](https://www.grab.com/sg/).`,
+    `🧐 I am passionate about **distributed systems** and programming languages in general - the recent addiction being Rust.`,
     `👨‍💻 I spend an embarrassingly large amount of time solving [Leetcode](https://leetcode.com/arunma/) problems for fun.`,
-    `📝 I wanted to write regularly on [my blog](${BLOG_HOST}).`,
     `💬 Ping me about **Big Data, Engineering at Scale, Scala, Rust and just about anything tech**.`,
-    `🎉 Fun Fact: I wrote a book on using [Scala for data analytics] (https://www.amazon.com/s?i=stripbooks&rh=p_27%3AArun+Manivannan) and was a lecturer at [NUS] (https://www.iss.nus.edu.sg/) for a couple of years。`,
+    `📝 I wanted to write regularly on [my blog](${BLOG_HOST}).`,
+    `🎉 Fun Fact: I wrote a book on using [Scala for data analytics](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AArun+Manivannan) and was a lecturer at [NUS](https://www.iss.nus.edu.sg/) for a couple of years。`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
