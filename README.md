@@ -1,7 +1,6 @@
 <h2>Hey! Nice to see you. I'm <a href="https://www.linkedin.com/in/arunma/">Arun Manivannan</a></h2>
 <p>I'm a software engineer from Singapore.</p>
 <p><a href="https://www.arunma.com"><img src="https://img.shields.io/badge/-arunma.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Chrome&amp;link=https://www.arunma.com" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/arunma/"><img src="https://img.shields.io/badge/-@arunma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/arunma/" alt="LinkedIn Badge"></a> <a href="https://twitter.com/arunma"><img src="https://img.shields.io/badge/-@arunma-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Twitter&amp;link=https://twitter.com/arunma" alt="Twitter Badge"></a></p>
-<img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmKk/giphy.gif" />
 <h2>Me, Me, Me</h2>
 <ul>
 <li>🧐 I am passionate about <strong>distributed systems</strong> and programming languages in general - the recent addiction being Rust.</li>
