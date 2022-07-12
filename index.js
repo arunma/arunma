@@ -17,8 +17,6 @@ const BLOG_HOST = `https://www.arunma.com`;
 const introTitle = generateTitle(2, `Hey! Nice to meet you. I'm ${generateLink('Arun Manivannan', 'https://www.linkedin.com/in/arunma/')}`);
 const introDescription = `I'm a software engineer with keen interest in building data-intensive applications.`;
 
-const notice = ``
-
 const badgeConfigs = [{
         name: 'Website',
         badgeText: 'arunma.com',
@@ -46,16 +44,14 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const factsTitle = generateTitle(2, `Me, Me, Me`);
 const factsConfigs = [
-    `🧐 I am passionate about **data-intensive distributed systems** and programming languages in general - the recent addiction being Rust.`,
-    `💬 Ping me about **Big Data, Engineering at Scale, Scala, Rust** and just about anything related to data and tech.`,
-    `👨‍💻 I spend an embarrassingly large amount of time on [leetcode](https://leetcode.com/arunma/) and is still fascinated by it.`,
+    `🧐 I'm a polyglot software engineer with keen interest in building **data-intensive distributed systems**`,
+    `💬 Ping me about **data, engineering at scale, Scala, Rust** and just about anything related to data and tech.`,
+    `👨‍💻 I spend an embarrassingly large amount of time on [leetcode](https://leetcode.com/arunma/) discussion forums and still fascinated by how different engineers solve the same problem.`,
     `📝 I wanted to write regularly on [my blog](${BLOG_HOST}).`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
 
-const toolsTitle = generateTitle(2, ``)
 const toolsIconSize = 25;
 const toolsConfig = [{
         src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg',
@@ -109,8 +105,6 @@ const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=arun
 
 const content = `${introTitle}\n
 ${badges}\n
-${notice}\n
-${factsTitle}\n
 ${facts}\n
 ${stats}\n
 ${visitors}
