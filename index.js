@@ -46,12 +46,11 @@ const badgeConfigs = [{
 ];
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
-const gif = `<img align="right" src="https://media1.giphy.com/media/NmerZ36iBkmKk/giphy.gif" />`;
 const factsTitle = generateTitle(2, `Me, Me, Me`);
 const factsConfigs = [
-    `🧐 I am passionate about **distributed systems** and programming languages in general - the recent addiction being Rust.`,
+    `🧐 I am passionate about **data-intensive distributed systems** and programming languages in general - the recent addiction being Rust.`,
     `💬 Ping me about **Big Data, Engineering at Scale, Scala, Rust** and just about anything related to data and tech.`,
-    `👨‍💻 I spend an embarrassingly large amount of time solving [leetcode](https://leetcode.com/arunma/) problems for fun.`,
+    `👨‍💻 I spend an embarrassingly large amount of time on [leetcode](https://leetcode.com/arunma/) and is still fascinated by it.`,
     `📝 I wanted to write regularly on [my blog](${BLOG_HOST}).`,
 ];
 const facts = factsConfigs.reduce((result, fact) => result + `\n - ${fact}`, '');
@@ -109,7 +108,6 @@ const visitors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=arun
 (async () => {
 
 const content = `${introTitle}\n
-${introDescription}\n
 ${badges}\n
 ${notice}\n
 ${factsTitle}\n
