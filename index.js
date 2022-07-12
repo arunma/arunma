@@ -14,8 +14,8 @@ md.use(mdEmoji);
 const BLOG_HOST = `https://www.arunma.com`;
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey! Nice to see you. I'm ${generateLink('Arun Manivannan', 'https://www.linkedin.com/in/arunma/')}`);
-const introDescription = `I'm a software engineer from Singapore.`;
+const introTitle = generateTitle(2, `Hey! Nice to meet you. I'm ${generateLink('Arun Manivannan', 'https://www.linkedin.com/in/arunma/')}`);
+const introDescription = `I'm a software engineer with keen interest in building data-intensive applications.`;
 
 const notice = ``
 
@@ -114,11 +114,6 @@ ${badges}\n
 ${notice}\n
 ${factsTitle}\n
 ${facts}\n
-${toolsTitle}\n
-<p align="left">\n
-    ${tools}\n
-</p>\n
-${toolsEndTitle}\n
 ${stats}\n
 ${visitors}
 `;
