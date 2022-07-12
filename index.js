@@ -112,7 +112,6 @@ const content = `${introTitle}\n
 ${introDescription}\n
 ${badges}\n
 ${notice}\n
-${gif}\n
 ${factsTitle}\n
 ${facts}\n
 ${toolsTitle}\n
